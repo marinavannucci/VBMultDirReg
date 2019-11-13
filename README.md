@@ -1,6 +1,9 @@
 # Variational Bayes  Dirichlet Multinomial model using non-local prior spike-and-slab regression.
 This repository contains TensorFlow implementation of a variational Bayes approach to variable selection using Dirichlet Multinomial model. We illustrate the approach using both simulation and real data experiments. 
- 
+
+Please cite the following paper if you find the package useful.
+
+Miao, Y., Kook, J.H., Y. Lu, Guindani, M. and Vannucci, M. (2019). [Scalable Bayesian Variable Selection Regression Models for Count Data](http://www.stat.rice.edu/~marina/papers/chapter_final.pdf). In Flexible Bayesian Regression Modelling, Yanan F., Smith M., Nott D. and Dortet-Bernadet J.-L.(Eds). Elsevier, 187-219. 
 
 ## Introduction 
 
